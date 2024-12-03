@@ -13,6 +13,6 @@ void CadastroProduto(){
     int cod;
     char nome[50], descricao[100], fornecedor[30];
 
-    printf("")
+    printf("");
 
 }
